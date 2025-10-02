@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EMICalculator</string>
+    <string name="header">Budget &amp; EMI Calculator</string>
+    <string name="loanAmount">Loan Amount ($)</string>
+    <string name="interestRate">Interest Rate (%)</string>
+    <string name="tenure">Tenure (in months)</string>
+    <string name="monthly">Monthly EMI - </string>
+    <string name="income">Monthly Income</string>
+    <string name="calculate_emi">Calculate EMI</string>
+    <string name="calculate_budget">Calculate Budget</string>
+    <string name="remainingResult">Remaining Balance - </string>
+    <string name="enter_expense">Enter Expense</string>
+    <string name="expense">Monthly Expense</string>
+    <string name="enter_income">Enter Income</string>
+    <string name="emi_calculator">EMI Calculator</string>
+    <string name="loanText">Loan Amount:</string>
+    <string name="interestLabel">Interest Rate:</string>
+    <string name="welcome">Welcome to the EMI Calculator</string>
+    <string name="welcome_greeting">Lets calculate your monthly EMI based on the loan amount, interest, and tenture. Use the budget calculator to display your balance after considering income, expenses, and EMI. \n\nLets manage your finances with just a few clicks!</string>
+    <string name="continueBtn">Start Calculating</string>
+</resources>
